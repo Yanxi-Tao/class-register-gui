@@ -1,7 +1,7 @@
 {
   "name": "class-register-gui",
   "version": "0.1.0",
-  "homepage": "https://Yanxi-Tao.github.io/class-register.gui",
+  "homepage": "https://yanxi-tao.github.io/class-register-gui/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.3",
